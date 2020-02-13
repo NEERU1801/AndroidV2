@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.adobe.marketing.mobile:target-vec:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ef2424f3f64bd22215faceb390b9aeb/jetified-target-vec-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ef2424f3f64bd22215faceb390b9aeb/jetified-target-vec-1.1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adobe.marketing.mobile/target-vec/1.1.1/ca178830795db287ada348f6e43aab3c4684ff26/target-vec-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adobe.marketing.mobile/target-vec/1.1.1/6eb8061c3fe15e6ee1e66b8738795508ecd295e5/target-vec-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

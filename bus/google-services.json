@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055832367510",
+    "firebase_url": "https://aem-rockstar.firebaseio.com",
+    "project_id": "aem-rockstar",
+    "storage_bucket": "aem-rockstar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055832367510:android:662311a4078acc898f7db7",
+        "android_client_info": {
+          "package_name": "com.adobe.busbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055832367510-lkdsi0iifr8l176acm03j9igmustmm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN14tAsOncqgTPhtR2kNeBePwUnzNYL4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055832367510-lkdsi0iifr8l176acm03j9igmustmm53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
